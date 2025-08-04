@@ -1,3 +1,8 @@
+
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/3109653e-f135-4934-923a-c13b16c4308e" />
+
+
+
 # 💻 Hi, I'm Pixel Coder (Estifo)  
 
 🎨 I'm a passionate high school student learning frontend development.  
