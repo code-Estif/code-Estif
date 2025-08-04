@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pixel Coder (Estifo)  
+# 💻 Hi, I'm Pixel Coder (Estifo)  
 
 🎨 I'm a passionate high school student learning frontend development.  
 💻 Currently building projects with **HTML & CSS**  
