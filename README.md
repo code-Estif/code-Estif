@@ -1,9 +1,8 @@
 ## 🚀 My GitHub Stats
 
-[![Estif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pixel-coder&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/pixel-coder)
+[![Estif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=code-Estif&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/code-Estif)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=pixel-coder&theme=tokyonight)
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=code-Estif&theme=tokyonight)
 
 ![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+I'm+Pixel+Coder+Frontend+Developer;HTML+%26+CSS+Lover;)
 
