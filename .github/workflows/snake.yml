@@ -1,5 +1,6 @@
+permissions:
+  contents: write
 name: Generate Snake Animation
-
 on:
   schedule:
     - cron: "0 0 * * *" # runs daily
