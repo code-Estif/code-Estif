@@ -55,6 +55,3 @@
 ---
 
 > “Every pixel matters — and I’m learning to code them all, one div at a time.”
-> ![Snake animation](https://github.com/code-Estif/code-Estif/blob/output/github-snake.svg)
-
-
