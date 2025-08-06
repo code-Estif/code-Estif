@@ -55,3 +55,10 @@
 ---
 
 > “Every pixel matters — and I’m learning to code them all, one div at a time.”  
+### 🐍 Watch my GitHub contributions get eaten by a snake:
+
+### 🐍 Watch my GitHub contributions get eaten by a snake:
+
+![Snake animation](https://github.com/code-Estif/code-Estif/blob/output/github-snake.svg)
+
+
