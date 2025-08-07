@@ -1,3 +1,6 @@
+![Profile Views](https://komarev.com/ghpvc/?username=code-estif&style=flat-square)
+
+
 ## 🚀 My GitHub Stats
 
 [![Estif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=code-Estif&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/code-Estif)
