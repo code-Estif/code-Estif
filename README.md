@@ -48,7 +48,7 @@
 ## 📫 Let’s Connect
 
 - 💌 Email: legendestif@gmail.com 
-- - 🌐 Portfolio: [MY-PORTFOLIO](https://code-estif.github.io/my-portfolio/)
+- 🌐 Portfolio: [MY-PORTFOLIO](https://code-estif.github.io/my-portfolio/)
 - 🧠 Challenges: [Frontend Mentor](https://www.frontendmentor.io/profile/code-Estif)
 
 ---
