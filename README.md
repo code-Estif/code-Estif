@@ -1,5 +1,5 @@
-![Profile view counter](https://komarev.com/ghpvc/?username=code-Estif)
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=your-username.your-username)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=code-Estif.github-profile)
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=code-Estif)
 
 ## 🚀 My GitHub Stats
 
