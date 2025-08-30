@@ -7,7 +7,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=code-Estif&theme=radical&langs_count=5&card_width=48%)
 
 
-[Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Pixel+Coder+Frontend+Developer;HTML+%26+CSS+Lover;Learning+JavaScript;)
+![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Pixel+Coder+Frontend+Developer;HTML+%26+CSS+Lover;Learning+JavaScript;)
 
 # 💻 Hi, I'm Pixel Coder (Estifo)  
 
