@@ -27,17 +27,17 @@
 
 ## ✨ What I’m Working On
 
-- 🔨 Recreating real websites with Flexbox & CSS Grid  
+- 🔨 Recreating real websites with Flexbox & CSS Grid and basic javascript
 - 📱 Learning responsive layout using `@media` queries  
 - 🧪 Solving Frontend Mentor challenges  
-- 💼 Building my first animated portfolio site  
+- Building projects with html,css,js 
 
 ---
 
 ## 🌱 Goals for 2025
 
-- Learn JavaScript basics  
-- Practice UI animations with CSS  
+- Learn JavaScript 
+- Practice UI animations and Responsiveness with CSS  
 - Start freelancing as a frontend developer  
 
 ---
