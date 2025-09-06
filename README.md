@@ -12,10 +12,9 @@
 # 💻 Hi, I'm Pixel Coder (Estifo)  
 
 🎨 I'm a passionate high school student learning frontend development.  
-💻 Currently building projects with **HTML & CSS**  
+💻 Currently building projects with **HTML, CSS & javascript**  
 📱 Focused on creating **pixel-perfect layouts** and **responsive design**  
-🚀 I dream of becoming a freelance web developer soon!
-
+💻I am currently learning javascript 
 ---
 
 ## 🛠️ Tech Stack
@@ -28,8 +27,7 @@
 
 ## ✨ What I’m Working On
 
-- 🔨 Recreating real websites with Flexbox & CSS Grid and basic javascript
-- 📱 Learning responsive layout using `@media` queries  
+- 📱 Making projects with responsive layout.
 - 🧪 Solving Frontend Mentor challenges  
 - Building projects with html,css,js 
 
@@ -37,7 +35,7 @@
 
 ## 🌱 Goals for 2025
 
-- Learn JavaScript 
+- Learn JavaScript and React 
 - Practice UI animations and Responsiveness with CSS  
 - Start freelancing as a frontend developer  
 
@@ -51,6 +49,5 @@
 
 ---
 
-> “Every pixel matters — and I’m learning to code them all, one div at a time.”
 > ![GitHub Snake](https://github.com/code-Estif/code-Estif/blob/output/github-snake.svg)
 
