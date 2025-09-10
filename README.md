@@ -12,7 +12,7 @@
 
 🎨 I'm a passionate high school student learning frontend development.  
 💻 Currently building projects with **HTML, CSS & javascript**  
-📱 Focused on creating **pixel-perfect layouts** and **responsive design**  
+📱 Focused on creating **pixel-perfect layouts** and **responsive design** and making website's more interactive with javascript
 💻I am currently learning javascript 
 ---
 
