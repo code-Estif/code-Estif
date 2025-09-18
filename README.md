@@ -1,7 +1,12 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=code-Estif.github-profile)
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=code-Estif)
 
-## 🚀 My GitHub Stats
+
+## My GitHub Stats
+
+[![Estif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=code-Estif&show_icons=true&theme=tokyonight&cache_seconds=86400)](https://github.com/code-Estif)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=code-Estif&theme=radical&langs_count=5&card_width=48%)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=code-Estif&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
