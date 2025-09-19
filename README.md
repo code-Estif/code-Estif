@@ -14,6 +14,7 @@
 🎨 I'm a passionate high school student learning frontend development.  
 💻 Currently building projects with **HTML, CSS & javascript**  
 📱 Focused on creating **pixel-perfect layouts** and **responsive design** and making website's more interactive with javascript
+
 💻I am currently learning javascript 
 ---
 
@@ -28,7 +29,8 @@
 ## ✨ What I’m Working On
 
 - 📱 Making projects with responsive layout.
-- 🧪 Solving Frontend Mentor challenges  
+- 🧪 Solving Frontend Mentor challenges
+- learning javascript   
 - Building projects with html,css,js 
 
 ---
