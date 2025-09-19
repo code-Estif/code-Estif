@@ -5,7 +5,8 @@
 
 [![Estif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=code-Estif&show_icons=true&theme=tokyonight&cache_seconds=86400)](https://github.com/code-Estif)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=code-Estif&theme=radical&langs_count=5&card_width=48%)
-[![GitHub Streak](https://streak-stats.demolab.com?user=code-Estif&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=code-Estif)](https://git.io/streak-stats)
+
 
 ![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+I'm+ESTIF+Frontend+Developer;HTML+%26+CSS+Lover;Learning...)
 
