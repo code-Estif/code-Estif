@@ -8,7 +8,7 @@
 
 [![GitHub Streak] https://streak-stats.demolab.com/?user=code-Estif&theme=dark)]
 
-![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+I'm+ESTIF+Frontend+Developer;HTML+%26+CSS+Lover;Learning...)
+![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+I'm+ESTIF+Frontend+Developer;HTML+%26+CSS+Lover;Learning+javascript)
 
 #  Hi, I'm Estif  
 
