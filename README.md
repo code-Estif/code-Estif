@@ -3,8 +3,8 @@
 
 ## My GitHub Stats
 
-[![Estif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=code-Estif&show_icons=true&theme=tokyonight&cache_seconds=86400)](https://github.com/code-Estif)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=code-Estif&theme=radical&langs_count=5&card_width=48%)
+![code-Estif's GitHub stats](https://github-readme-stats.vercel.app/api?username=code-Estif&show_icons=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=code-Estif&layout=compact&theme=transparent)
 
 [[GitHub Streak] (https://github-readme-streak-stats.herokuapp.com/?user=code-Estif)]
 
