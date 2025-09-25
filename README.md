@@ -1,5 +1,6 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=code-Estif.github-profile)
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=code-Estif)
+[![wakatime](https://wakatime.com/badge/user/4d9e5299-64b6-4caa-ba10-66fe1cf8b045.svg)](https://wakatime.com/@4d9e5299-64b6-4caa-ba10-66fe1cf8b045)
 
 ## My GitHub Stats
 
