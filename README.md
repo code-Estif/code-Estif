@@ -21,4 +21,8 @@
 -  Build real-world projects
 -  Start freelancing and grow as a developer
 
+
+![Snake Animation](https://raw.githubusercontent.com/code-Estif/code-Estif/output/github-snake.svg)
+
+
 From [code-Estif](https://github.com/code-Estif)
