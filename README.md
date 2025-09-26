@@ -19,6 +19,6 @@
 -  Master **Git & GitHub**
 -  Learn **React**
 -  Build real-world projects
-- Start freelancing and grow as a developer
+-  Start freelancing and grow as a developer
 
 From [code-Estif](https://github.com/code-Estif)
