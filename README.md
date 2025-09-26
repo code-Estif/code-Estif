@@ -8,3 +8,19 @@
 
 <!-- GitHub Streak Card -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=code-Estif&theme=transparent)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00FFB3&lines=I+am+a+Frontend+Developer;HTML+and+CSS+lover;Learning+JavaScript)](https://git.io/typing-svg)
+
+## What I’m Doing Now
+-  Making small projects with **HTML, CSS, JS**
+-  Learning **JavaScript** basics to advanced
+-  Tracking my journey here on GitHub
+
+## My Goals for 2025
+-  Master **HTML, CSS, and JavaScript**
+-  Master **Git & GitHub**
+-  Learn **React**
+-  Build real-world projects
+- Start freelancing and grow as a developer
+
+From [code-Estif](https://github.com/code-Estif)
