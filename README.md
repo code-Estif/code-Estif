@@ -11,7 +11,7 @@
 
  What I’m Doing Now
 -  Making small projects with **HTML, CSS, JS**
--  Learning **JavaScript** basics to advanced
+-  Learning **React**
 -  Tracking my journey here on GitHub
 
  My Goals for 2025
