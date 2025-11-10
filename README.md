@@ -18,7 +18,7 @@
 -  Master **HTML, CSS, and JavaScript**
 -  Master **Git & GitHub**
 -  Learn **React**
--  Build real-world projects
+-  Build real-world projects.
 -  Start freelancing and grow as a developer
 
 
