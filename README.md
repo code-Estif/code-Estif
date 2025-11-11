@@ -14,7 +14,7 @@
 -  Learning **React**
 -  Tracking my journey here on GitHub
 
- My Goals for 2025
+ My Goals for 2025 
 -  Master **HTML, CSS, and JavaScript**
 -  Master **Git & GitHub**
 -  Learn **React**
