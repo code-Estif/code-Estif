@@ -2,7 +2,7 @@ My GitHub Stats
  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=code-Estif&show_icons=true&cache_seconds=7200)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=code-Estif&layout=compact&cache_seconds=7200)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=code-Estif&theme=dark)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=code-Estif&theme=black)  
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00FFB3&lines=I+am+a+Frontend+Developer;HTML+and+CSS+lover;Learning+React)](https://git.io/typing-svg)
 
