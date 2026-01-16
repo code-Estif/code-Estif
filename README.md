@@ -7,10 +7,10 @@
 -  Learning **React**
 -  Tracking my journey here on GitHub
 
- My Goals for 2025 
--  Master **HTML, CSS, and JavaScript**
+ My Goals for 2026 
+-  Master **Frontend web development**
 -  Master **Git & GitHub**
--  Learn **React**
+-  Learn **Backend development**
 -  Build real-world projects.
 -  Start freelancing and grow as a developer
 
