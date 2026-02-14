@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00FFB3&lines=I+am+a+Frontend+Developer;HTML+and+CSS+lover;Mastering+React)](https://git.io/typing-svg)
-
+ 
 
 My Skills
 
