@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00FFB3&lines=I+am+a+Frontend+Web+Developer;HTML,+CSS+&+JavaScript+lover;Mastering+React)](https://git.io/typing-svg)    
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00FFB3&lines=I+am+a+Frontend+Web+Developer;HTML,+CSS+&+JavaScript+lover;Mastering+React)](https://git.io/typing-svg)    
 
    
 My Skills 
