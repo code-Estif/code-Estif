@@ -1,24 +1,37 @@
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00FFB3&lines=I+am+a+Web+Developer;HTML,+CSS+&+JavaScript+lover;Learninging+Backend)](https://git.io/typing-svg)        
-      
-       
-My Skills     
- 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
- 
- What I’m Doing Now
--  Making Frontend projects with **HTML, CSS, JS & React**
--  Learning **Backend**
--  Tracking my journey here on GitHub
+# Hi, I'm Estif
 
- My Goals for 2026 
--  Become Full-stack developer
--  Master **Git & GitHub**
--  Learn **Backend development**
--  Build real-world projects.
--  Start freelancing and grow as a developer
+**Frontend Developer building clean, responsive websites for businesses.**
 
+I build modern websites with **HTML, CSS, JavaScript, and React**, with a focus on responsive UI, clear layouts, and practical business goals.
 
-![Snake Animation](https://raw.githubusercontent.com/code-Estif/code-Estif/output/github-snake.svg)
+I'm also currently learning **Node.js, Express, and PostgreSQL** to grow into full-stack development.
 
+## Selected Work
 
-From [code-Estif](https://github.com/code-Estif)
+### [My Portfolio](https://github.com/code-Estif/My-portfolio)
+My personal portfolio website and a showcase of my frontend work.
+
+### [Elevate — Modern Business Solution](https://github.com/code-Estif/Elevate-Modern-Business-Solution)
+A modern business-focused website built to present services clearly and drive visitors toward action.
+
+### [Lumina Restaurant Website](https://github.com/code-Estif/Lumina_Resturant-website)
+A responsive restaurant website focused on presentation, navigation, and customer experience.
+
+## Tech
+
+HTML • CSS • JavaScript • React • Git
+
+Currently learning: **Node.js • Express • PostgreSQL**
+
+## What I'm Doing Now
+
+- Building polished frontend projects
+- Learning backend development and PostgreSQL
+- Creating business-focused websites
+- Looking for freelance frontend projects and collaborations
+
+## Contact
+
+If you'd like to work together on a website or frontend project, feel free to reach out.
+
+[GitHub](https://github.com/code-Estif)
